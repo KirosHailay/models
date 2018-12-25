@@ -5,3 +5,9 @@
 /bazel-im2txt
 /bazel-testlogs
 /bazel-tf
+*
+!*.mp4
+!*.flv
+*.ckpt-1000000.data-00000-of-00001
+*..ckpt-2000000.data-00000-of-00001
+*
