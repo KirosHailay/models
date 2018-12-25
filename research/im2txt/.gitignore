@@ -5,3 +5,8 @@
 /bazel-im2txt
 /bazel-testlogs
 /bazel-tf
+*.ckpt-1000000.data-00000-of-00001
+*.ckpt-2000000.data-00000-of-00001
+**.jpg
+*.png
+*
